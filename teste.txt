@@ -4,3 +4,8 @@ dasdasdasdasdasdasd
 
 
 fiz alterações hoje hskafhkhfksjfdhaskgfjhskfjghsfg
+
+
+git stash
+
+criando as tags novo release
